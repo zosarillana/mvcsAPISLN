@@ -3,32 +3,32 @@
   "WorkspaceRootPath": "C:\\Users\\zcsarillana\\source\\repos\\Restful_API\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{AE2F6B13-A538-4E7B-B883-9C524A8E15D3}|Restful_API\\Restful_API.csproj|c:\\users\\zcsarillana\\source\\repos\\restful_api\\restful_api\\model\\isr.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{AE2F6B13-A538-4E7B-B883-9C524A8E15D3}|Restful_API\\Restful_API.csproj|solutionrelative:restful_api\\model\\isr.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{AE2F6B13-A538-4E7B-B883-9C524A8E15D3}|Restful_API\\Restful_API.csproj|c:\\users\\zcsarillana\\source\\repos\\restful_api\\restful_api\\marketvisits.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AE2F6B13-A538-4E7B-B883-9C524A8E15D3}|Restful_API\\Restful_API.csproj|solutionrelative:restful_api\\marketvisits.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{AE2F6B13-A538-4E7B-B883-9C524A8E15D3}|Restful_API\\Restful_API.csproj|c:\\users\\zcsarillana\\source\\repos\\restful_api\\restful_api\\model\\pod.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{AE2F6B13-A538-4E7B-B883-9C524A8E15D3}|Restful_API\\Restful_API.csproj|solutionrelative:restful_api\\model\\pod.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{AE2F6B13-A538-4E7B-B883-9C524A8E15D3}|Restful_API\\Restful_API.csproj|c:\\users\\zcsarillana\\source\\repos\\restful_api\\restful_api\\controllers\\marketvisitscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AE2F6B13-A538-4E7B-B883-9C524A8E15D3}|Restful_API\\Restful_API.csproj|solutionrelative:restful_api\\controllers\\marketvisitscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{AE2F6B13-A538-4E7B-B883-9C524A8E15D3}|Restful_API\\Restful_API.csproj|c:\\users\\zcsarillana\\source\\repos\\restful_api\\restful_api\\controllers\\isrcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{AE2F6B13-A538-4E7B-B883-9C524A8E15D3}|Restful_API\\Restful_API.csproj|solutionrelative:restful_api\\controllers\\isrcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{AE2F6B13-A538-4E7B-B883-9C524A8E15D3}|Restful_API\\Restful_API.csproj|c:\\users\\zcsarillana\\source\\repos\\restful_api\\restful_api\\controllers\\podcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{AE2F6B13-A538-4E7B-B883-9C524A8E15D3}|Restful_API\\Restful_API.csproj|solutionrelative:restful_api\\controllers\\podcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{AE2F6B13-A538-4E7B-B883-9C524A8E15D3}|Restful_API\\Restful_API.csproj|c:\\users\\zcsarillana\\source\\repos\\restful_api\\restful_api\\datatransferobject\\updatepoddto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{AE2F6B13-A538-4E7B-B883-9C524A8E15D3}|Restful_API\\Restful_API.csproj|solutionrelative:restful_api\\datatransferobject\\updatepoddto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{AE2F6B13-A538-4E7B-B883-9C524A8E15D3}|Restful_API\\Restful_API.csproj|c:\\users\\zcsarillana\\source\\repos\\restful_api\\restful_api\\datatransferobject\\marketvisitdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AE2F6B13-A538-4E7B-B883-9C524A8E15D3}|Restful_API\\Restful_API.csproj|solutionrelative:restful_api\\datatransferobject\\marketvisitdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{AE2F6B13-A538-4E7B-B883-9C524A8E15D3}|Restful_API\\Restful_API.csproj|c:\\users\\zcsarillana\\source\\repos\\restful_api\\restful_api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{AE2F6B13-A538-4E7B-B883-9C524A8E15D3}|Restful_API\\Restful_API.csproj|solutionrelative:restful_api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{AE2F6B13-A538-4E7B-B883-9C524A8E15D3}|Restful_API\\Restful_API.csproj|c:\\users\\zcsarillana\\source\\repos\\restful_api\\restful_api\\datatransferobject\\isrdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{AE2F6B13-A538-4E7B-B883-9C524A8E15D3}|Restful_API\\Restful_API.csproj|solutionrelative:restful_api\\datatransferobject\\isrdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{AE2F6B13-A538-4E7B-B883-9C524A8E15D3}|Restful_API\\Restful_API.csproj|c:\\users\\zcsarillana\\source\\repos\\restful_api\\restful_api\\data\\marketvisitcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AE2F6B13-A538-4E7B-B883-9C524A8E15D3}|Restful_API\\Restful_API.csproj|solutionrelative:restful_api\\data\\marketvisitcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AE2F6B13-A538-4E7B-B883-9C524A8E15D3}|Restful_API\\Restful_API.csproj|c:\\users\\zcsarillana\\source\\repos\\restful_api\\restful_api\\controllers\\podcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AE2F6B13-A538-4E7B-B883-9C524A8E15D3}|Restful_API\\Restful_API.csproj|solutionrelative:restful_api\\controllers\\podcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AE2F6B13-A538-4E7B-B883-9C524A8E15D3}|Restful_API\\Restful_API.csproj|c:\\users\\zcsarillana\\source\\repos\\restful_api\\restful_api\\model\\isr.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AE2F6B13-A538-4E7B-B883-9C524A8E15D3}|Restful_API\\Restful_API.csproj|solutionrelative:restful_api\\model\\isr.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -38,21 +38,20 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 4,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 6,
               "Title": "Isr.cs",
               "DocumentMoniker": "C:\\Users\\zcsarillana\\source\\repos\\Restful_API\\Restful_API\\Model\\Isr.cs",
               "RelativeDocumentMoniker": "Restful_API\\Model\\Isr.cs",
               "ToolTip": "C:\\Users\\zcsarillana\\source\\repos\\Restful_API\\Restful_API\\Model\\Isr.cs",
               "RelativeToolTip": "Restful_API\\Model\\Isr.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAA8AAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABwAAAAJAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-08-28T05:06:59.323Z",
-              "IsPinned": true,
-              "EditorCaption": ""
+              "IsPinned": true
             },
             {
               "$type": "Bookmark",
@@ -64,79 +63,78 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "UpdatePodDto.cs",
-              "DocumentMoniker": "C:\\Users\\zcsarillana\\source\\repos\\Restful_API\\Restful_API\\DataTransferObject\\UpdatePodDto.cs",
-              "RelativeDocumentMoniker": "Restful_API\\DataTransferObject\\UpdatePodDto.cs",
-              "ToolTip": "C:\\Users\\zcsarillana\\source\\repos\\Restful_API\\Restful_API\\DataTransferObject\\UpdatePodDto.cs",
-              "RelativeToolTip": "Restful_API\\DataTransferObject\\UpdatePodDto.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-02T06:01:39.737Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "IsrController.cs",
-              "DocumentMoniker": "C:\\Users\\zcsarillana\\source\\repos\\Restful_API\\Restful_API\\Controllers\\IsrController.cs",
-              "RelativeDocumentMoniker": "Restful_API\\Controllers\\IsrController.cs",
-              "ToolTip": "C:\\Users\\zcsarillana\\source\\repos\\Restful_API\\Restful_API\\Controllers\\IsrController.cs",
-              "RelativeToolTip": "Restful_API\\Controllers\\IsrController.cs",
-              "ViewState": "AQIAALAAAAAAAAAAAAAIwMoAAAApAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-02T02:50:20.462Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
               "DocumentIndex": 3,
-              "Title": "PodController.cs",
-              "DocumentMoniker": "C:\\Users\\zcsarillana\\source\\repos\\Restful_API\\Restful_API\\Controllers\\PodController.cs",
-              "RelativeDocumentMoniker": "Restful_API\\Controllers\\PodController.cs",
-              "ToolTip": "C:\\Users\\zcsarillana\\source\\repos\\Restful_API\\Restful_API\\Controllers\\PodController.cs",
-              "RelativeToolTip": "Restful_API\\Controllers\\PodController.cs",
-              "ViewState": "AQIAAHIAAAAAAAAAAAAmwMsAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-02T01:56:25.315Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "IsrDto.cs",
-              "DocumentMoniker": "C:\\Users\\zcsarillana\\source\\repos\\Restful_API\\Restful_API\\DataTransferObject\\IsrDto.cs",
-              "RelativeDocumentMoniker": "Restful_API\\DataTransferObject\\IsrDto.cs",
-              "ToolTip": "C:\\Users\\zcsarillana\\source\\repos\\Restful_API\\Restful_API\\DataTransferObject\\IsrDto.cs",
-              "RelativeToolTip": "Restful_API\\DataTransferObject\\IsrDto.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAA9AAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-02T01:32:58.807Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\zcsarillana\\source\\repos\\Restful_API\\Restful_API\\Program.cs",
               "RelativeDocumentMoniker": "Restful_API\\Program.cs",
               "ToolTip": "C:\\Users\\zcsarillana\\source\\repos\\Restful_API\\Restful_API\\Program.cs",
               "RelativeToolTip": "Restful_API\\Program.cs",
-              "ViewState": "AQIAAD8AAAAAAAAAAAAAAAAAAAAAAAAA",
+              "ViewState": "AQIAAHQAAAAAAAAAAAAAAIIAAAAKAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-29T00:28:03.416Z"
+              "WhenOpened": "2024-09-03T08:51:22.339Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "MarketVisits.cs",
+              "DocumentMoniker": "C:\\Users\\zcsarillana\\source\\repos\\Restful_API\\Restful_API\\MarketVisits.cs",
+              "RelativeDocumentMoniker": "Restful_API\\MarketVisits.cs",
+              "ToolTip": "C:\\Users\\zcsarillana\\source\\repos\\Restful_API\\Restful_API\\MarketVisits.cs",
+              "RelativeToolTip": "Restful_API\\MarketVisits.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAABkAAABFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-03T08:47:52.394Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "PodController.cs",
+              "DocumentMoniker": "C:\\Users\\zcsarillana\\source\\repos\\Restful_API\\Restful_API\\Controllers\\PodController.cs",
+              "RelativeDocumentMoniker": "Restful_API\\Controllers\\PodController.cs",
+              "ToolTip": "C:\\Users\\zcsarillana\\source\\repos\\Restful_API\\Restful_API\\Controllers\\PodController.cs",
+              "RelativeToolTip": "Restful_API\\Controllers\\PodController.cs",
+              "ViewState": "AQIAAHsAAAAAAAAAAAAAwFcAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-03T08:23:41.515Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "Pod.cs",
-              "DocumentMoniker": "C:\\Users\\zcsarillana\\source\\repos\\Restful_API\\Restful_API\\Model\\Pod.cs",
-              "RelativeDocumentMoniker": "Restful_API\\Model\\Pod.cs",
-              "ToolTip": "C:\\Users\\zcsarillana\\source\\repos\\Restful_API\\Restful_API\\Model\\Pod.cs",
-              "RelativeToolTip": "Restful_API\\Model\\Pod.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAACUAAAAAAAAA",
+              "Title": "MarketVisitsController.cs",
+              "DocumentMoniker": "C:\\Users\\zcsarillana\\source\\repos\\Restful_API\\Restful_API\\Controllers\\MarketVisitsController.cs",
+              "RelativeDocumentMoniker": "Restful_API\\Controllers\\MarketVisitsController.cs",
+              "ToolTip": "C:\\Users\\zcsarillana\\source\\repos\\Restful_API\\Restful_API\\Controllers\\MarketVisitsController.cs",
+              "RelativeToolTip": "Restful_API\\Controllers\\MarketVisitsController.cs",
+              "ViewState": "AQIAAEIAAAAAAAAAAAAswFsAAAAjAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-28T05:06:59.965Z",
+              "WhenOpened": "2024-09-02T08:58:51.096Z",
               "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "MarketVisitDto.cs",
+              "DocumentMoniker": "C:\\Users\\zcsarillana\\source\\repos\\Restful_API\\Restful_API\\DataTransferObject\\MarketVisitDto.cs",
+              "RelativeDocumentMoniker": "Restful_API\\DataTransferObject\\MarketVisitDto.cs",
+              "ToolTip": "C:\\Users\\zcsarillana\\source\\repos\\Restful_API\\Restful_API\\DataTransferObject\\MarketVisitDto.cs",
+              "RelativeToolTip": "Restful_API\\DataTransferObject\\MarketVisitDto.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAA0AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-03T06:41:02.477Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "MarketVisitContext.cs",
+              "DocumentMoniker": "C:\\Users\\zcsarillana\\source\\repos\\Restful_API\\Restful_API\\Data\\MarketVisitContext.cs",
+              "RelativeDocumentMoniker": "Restful_API\\Data\\MarketVisitContext.cs",
+              "ToolTip": "C:\\Users\\zcsarillana\\source\\repos\\Restful_API\\Restful_API\\Data\\MarketVisitContext.cs",
+              "RelativeToolTip": "Restful_API\\Data\\MarketVisitContext.cs",
+              "ViewState": "AQIAAC4AAAAAAAAAAAAcwFUAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-02T08:35:45.135Z"
             }
           ]
         }
